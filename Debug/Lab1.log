@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\BSU\MB\Lab1\main.cpp(15,36): warning C4018: '<': signed/unsigned mismatch
+D:\C++\BSU\MB\Lab1\main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab1.vcxproj -> D:\C++\BSU\MB\Lab1\Debug\Lab1.exe
