@@ -1,16 +1,1 @@
-﻿  main.cpp
-D:\C++\BSU\MB\Lab1\main.cpp(13,29): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(18,36): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(55,24): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(77,25): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(81,26): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(90,25): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(102,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\C++\BSU\MB\Lab1\main.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(242,20): warning C4018: '<': signed/unsigned mismatch
-D:\C++\BSU\MB\Lab1\main.cpp(247,20): warning C4018: '<': signed/unsigned mismatch
-  Lab1.vcxproj -> D:\C++\BSU\MB\Lab1\Debug\Lab1.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(456,5): error MSB8020: The build tools for Visual Studio 2019 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, please install Visual Studio 2019 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
